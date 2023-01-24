@@ -5,11 +5,6 @@
 
 ### 🖖 Sobre mim:
 
-<p><em>Me chamo Renê, tenho 20 anos. Atualmente estudo para se tornar um desenvolvedor FullStack e curso Sistema da Informação.</em></p>
-- 🔭 Atualmente estou estagiando utilizando as seguintes ferramentas **Maker Studio e SQL Server**... <br>
-
-- 🚀 Atualmente estou estudando: **Java** 
-- ⚡ Ferramentas que eu utilizo diariamente: **C, SQL, JavaScript**
 
 ### 🧪 Tecnologias:
 
