@@ -1,40 +1,55 @@
-
-<h2 align='center'>
-  Olá! Sejam-bem vindos(a)
-</h2>
-
-### 🖖 Sobre mim:
-
-Desenvolvedor Back-End com experiência em SQL Server e Spring APIs REST .
-
-
-### 🧪 Tecnologias:
-
-Aqui estão algumas das tecnologias que utilizo:
-
-<div>
-  <img align="center" alt="HTML" title="HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" title="CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" title="JavaScript" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="MySQL" title="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="SQL Server" title="SQL Server" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Java" title="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Spring Boot" title="Spring Boot" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-
-
-</div>
-
-### ✨ Objetivos:
-
-- Contribuir com a comunidade.
-- Evoluir ainda mais no desenvolvimento de aplicações.
-
-### 📫 Entre em contato:
-
-<a href="https://www.linkedin.com/in/ren%C3%AA-t-819300225/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-070A1C?style=for-the-badge&logo=Linkedin&logoColor=F50057&link=https://www.linkedin.com/in/deivit-eduardo"/>
-</a>
 <div align="center">
-  <a href="https://github.com/renetoledoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renetoledoo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamN4MHEzbjRha2R2NGhiNzcxcnd3cmVha3AxcTY2enNpMXUzdnc1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</div>
+
+###
+
+<h1 align="center">Olá 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  Sobre mim</h3>
+
+###
+
+<p align="left">Eu sou do Brasil.<br><br>- 🔭 Estou trabalhando como desenvolvedor de software, utilizando plataforma low-code e APIs para diversos projetos.<br>- 📚 Atualmente, estou aprendendo mais sobre integração de IA, Django, Langchain e criação de chatbots inteligentes.</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   Minhas estatísticas:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=renetoledoo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
